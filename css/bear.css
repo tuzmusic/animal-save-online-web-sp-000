@@ -16,6 +16,6 @@ For the bear, when sizing the browser from smaller to larger (mobile up), when t
   #bear {
     position: fixed;
     left: 800px;
-    visibility: hidden;
+    /*visibility: hidden;*/
   }
 }
