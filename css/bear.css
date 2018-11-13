@@ -13,6 +13,6 @@ For the bear, when sizing the browser from smaller to larger (mobile up), when t
 */
 
 @mobile only screen and (min-height: 1196px){
-  position: absolute;
+  position: fixed;
   left: 800px;
 }
